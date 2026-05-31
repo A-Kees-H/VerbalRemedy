@@ -6,4 +6,4 @@ And then convert it to an executable called whisper-cli.exe. Instructions in lin
 
 Put the folder path of that executable in listen_utils/path_to_your_whisper_cli_exe.txt and you should be good to go
 
-If you want this to run all the time, pop it in your startup folder (C:\{YOUR USER DIR}\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup)
+If you want this to run all the time, pop a shortcut to listen.pyw to your startup folder (C:\{YOUR USER DIR}\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup)
