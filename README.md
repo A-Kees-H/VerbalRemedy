@@ -1,5 +1,5 @@
 # VerbalRemedy
-A featherweight voice-to-text-to-LLM Python implementation for Whisper models
+## A featherweight voice-to-text-to-LLM Python implementation for Whisper models
 
 To make this work, you'll need to download a Whisper voice to text model from here: https://github.com/ggml-org/whisper.cpp
 And then convert it to an executable called whisper-cli.exe. Instructions in link. This is a bit messy and will requiring using cmake to build an executable, but you're on Github, I trust you to handle that
