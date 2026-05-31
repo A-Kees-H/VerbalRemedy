@@ -2,7 +2,7 @@ import subprocess
 import os
 
 # Set paths relative to this module
-WHISPER_DIR = "C:/Users/Kees/Work/Projects/voice_recognition/whisper/"
+WHISPER_DIR = open("path_to_your_whisper_cli_exe.txt")
 WHISPER_EXE = os.path.join(WHISPER_DIR, "whisper-cli.exe")
 MODEL = os.path.join(WHISPER_DIR, "ggml-tiny.en.bin")
 
